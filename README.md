@@ -10,7 +10,6 @@ Bu script, Ubuntu 22.04 üzerinde otomatik olarak bye alias'ını .bashrc ve .vi
 
 git clone https://github.com/theyenerkaan/auto_logout_script.git
 cd auto_logout_script
-chmod +x auto_logout.sh
 
 🔹 2. Scripti Çalıştırma
 
